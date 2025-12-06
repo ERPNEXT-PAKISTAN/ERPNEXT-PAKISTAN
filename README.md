@@ -6,7 +6,7 @@
 <p align="center">ERP developer · Frappe/ERPNext enthusiast · Open source contributor</p>
 
 <p align="center">
-  <a href="https://github.com/ERPNEXT-PAKISTAN"><img alt="Profile" src="https://github.com/ERPNEXT-PAKISTAN.png" width="100" /></a>
+  <a href="https://github.com/ERPNEXT-PAKISTAN"><img width="225" height="225" alt="images" src="https://github.com/user-attachments/assets/7ddc2e5a-7a50-45c1-a381-128aa6f68bdd" /></a>
 </p>
 
 <p align="center">
