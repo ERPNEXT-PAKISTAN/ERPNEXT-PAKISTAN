@@ -24,7 +24,7 @@
 - 🌱 I’m learning advanced Frappe app development and deployment patterns.
 - 👯 I’m looking to collaborate on ERPNext modules, migrations, and localization projects.
 - 💬 Ask me about ERPNext, Frappe framework, and deploying apps on VPS/Cloud.
-- 📫 How to reach me: you@example.com
+- 📫 How to reach me: taimoor986@gmail.com
 
 ---
 
@@ -55,9 +55,9 @@
 
 ## Featured Projects
 <!-- Copy/paste and update these cards or use GitHub's pinned repo UI -->
-- <b><a href="https://github.com/ERPNEXT-PAKISTAN/your-repo-1">your-repo-1</a></b> — Short description of repo 1.
-- <b><a href="https://github.com/ERPNEXT-PAKISTAN/your-repo-2">your-repo-2</a></b> — Short description of repo 2.
-- <b><a href="https://github.com/ERPNEXT-PAKISTAN/your-repo-3">your-repo-3</a></b> — Short description of repo 3.
+- <b><a href="https://github.com/ERPNEXT-PAKISTAN/Machine-Integration</a></b> — Integrate Any Biometric Device with ERPNext.
+- <b><a href="https://github.com/ERPNEXT-PAKISTAN/FBR-Pakistan</a></b> — Integrate Your Invoices with FBR Pakistan.
+- <b><a href="https://github.com/ERPNEXT-PAKISTAN/Microsoft-Power-Bi">your-repo-3</a></b> — Integrate Microsoft Power Bi with ERPNext.
 
 ---
 
