@@ -55,10 +55,9 @@
 
 ## Featured Projects
 <!-- Copy/paste and update these cards or use GitHub's pinned repo UI -->
-- <b><a href="https://github.com/ERPNEXT-PAKISTAN/Machine-Integration</a></b> — Integrate Any Biometric Device with ERPNext.
-- <b><a href="https://github.com/ERPNEXT-PAKISTAN/FBR-Pakistan</a></b> — Integrate Your Invoices with FBR Pakistan.
-- <b><a href="https://github.com/ERPNEXT-PAKISTAN/Microsoft-Power-Bi">your-repo-3</a></b> — Integrate Microsoft Power Bi with ERPNext.
-
+- **[Machine-Integration](https://github.com/ERPNEXT-PAKISTAN/Machine-Integration)** — Integrate any biometric device with ERPNext.
+- **[FBR-Pakistan](https://github.com/ERPNEXT-PAKISTAN/FBR-Pakistan)** — Integrate your invoices with FBR Pakistan.
+- **[Microsoft-Power-Bi](https://github.com/ERPNEXT-PAKISTAN/Microsoft-Power-Bi)** — Integrate Microsoft Power BI with ERPNext.
 ---
 
 ## Tech / Tools
