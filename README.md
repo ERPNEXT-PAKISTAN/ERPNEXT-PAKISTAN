@@ -12,8 +12,8 @@
 <p align="center">
   <!-- Social badges: replace URLs with yours -->
   <a href="https://your-website.example"><img src="https://img.shields.io/badge/website-your--site-blue?style=flat-square" alt="website"></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/email-you%40example.com-important?style=flat-square" alt="email"></a>
-  <a href="https://www.linkedin.com/in/taimoor-khan-45b548137/"><img src="https://img.shields.io/badge/linkedin-your--profile-blue?style=flat-square" alt="linkedin"></a>
+  <a href="mailto:taimoor986@gmail.com"><img src="https://img.shields.io/badge/email-taimoor986%40Gmail.com-important?style=flat-square" alt="email"></a>
+  <a href="https://www.linkedin.com/in/taimoor-khan-45b548137/"><img src="https://img.shields.io/badge/linkedin-Taimoor-blue?style=flat-square" alt="linkedin"></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/twitter-@yourhandle-1da1f2?style=flat-square" alt="twitter"></a>
 </p>
 
