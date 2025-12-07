@@ -11,10 +11,18 @@
 
 <p align="center">
   <!-- Social badges: replace URLs with yours -->
-  <a href="https://www.youtube.com/@ERPNEXT-PAKISTAN"><img src="https://img.shields.io/badge/Youtube-Red?style=flat-square" alt="website"></a>
-  <a href="mailto:taimoor986@gmail.com"><img src="https://img.shields.io/badge/email-taimoor986%40Gmail.com-important?style=flat-square" alt="email"></a>
-  <a href="https://www.linkedin.com/in/taimoor-khan-45b548137/"><img src="https://img.shields.io/badge/linkedin-Taimoor-blue?style=flat-square" alt="linkedin"></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/twitter-@yourhandle-1da1f2?style=flat-square" alt="twitter"></a>
+  <a href="https://www.youtube.com/@ERPNEXT-PAKISTAN">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="mailto:taimoor986@gmail.com">
+    <img src="https://img.shields.io/badge/Email-taimoor986%40Gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="email">
+  </a>
+  <a href="https://www.linkedin.com/in/taimoor-khan-45b548137/">
+    <img src="https://img.shields.io/badge/LinkedIn-Taimoor-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin">
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="twitter">
+  </a>
 </p>
 
 ---
