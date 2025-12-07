@@ -72,9 +72,58 @@
 ---
 
 ## Contact
-- Email: you@example.com
-- LinkedIn: https://www.linkedin.com/in/yourprofile
-- Website: https://your-website.example
+<p align="center">
+  <img src="https://github.com/ERPNEXT-PAKISTAN.png" width="96" height="96" alt="Taimoor"
+       style="border-radius:50%; object-fit:cover; display:block; border:3px solid rgba(255,255,255,0.95); box-shadow:0 6px 18px rgba(0,0,0,0.25);" />
+</p>
+
+<h2 align="center">Taimoor</h2>
+<p align="center"><em>ERPNext | Integrations & Automation</em></p>
+
+<p align="center">
+  <!-- Phone / WhatsApp -->
+  <a href="https://wa.me/923009808900" title="WhatsApp" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/48/whatsapp.png" width="28" alt="WhatsApp"/> 
+  </a>
+  &nbsp;
+  <a href="tel:+923009808900" title="Call">
+    <img src="https://img.icons8.com/fluency/48/phone.png" width="28" alt="Phone"/>
+  </a>
+  &nbsp;&nbsp;
+  <!-- Email -->
+  <a href="mailto:taimoor986@gmail.com" title="Email">
+    <img src="https://img.icons8.com/fluency/48/new-post.png" width="28" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/taimoor-khan-45b548137" title="LinkedIn" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="28" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <!-- GitHub -->
+  <a href="https://github.com/ERPNEXT-PAKISTAN" title="GitHub" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/48/github.png" width="28" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@ERPNEXT-PAKISTAN" title="YouTube" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/48/youtube-play.png" width="28" alt="YouTube"/>
+  </a>
+</p>
+
+
+<p align="center">
+  <b>Contact</b><br>
+  📞 +92 300 9808900 &nbsp;|&nbsp; ✉️ <a href="mailto:taimoor986@gmail.com">taimoor986@gmail.com</a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/taimoor-khan-45b548137" target="_blank">LinkedIn</a> • 
+  <a href="https://github.com/ERPNEXT-PAKISTAN" target="_blank">GitHub</a> • 
+  <a href="https://www.youtube.com/@ERPNEXT-PAKISTAN" target="_blank">YouTube</a> • 
+  <a href="https://wa.me/923009808900" target="_blank">WhatsApp</a>
+</p>
+
 
 ---
 
